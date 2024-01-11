@@ -1,0 +1,6 @@
+train: /home/rightbot/Projects/box_face_segmentation/test_180_data/images/train
+val: /home/rightbot/Projects/box_face_segmentation/test_180_data/images/val
+
+
+names:
+  0: box_face
